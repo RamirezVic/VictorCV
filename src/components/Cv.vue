@@ -9,7 +9,7 @@
 
 <template>
 
-<header class="flex sticky top-0 z-50 w-full border-b shadow-sm bg-gray-200">
+<header class="flex fixed top-0 z-50 w-full border-b shadow-sm bg-gray-200">
   <div class="px-4 flex items-center justify-between max-w-7xl mx-auto">
     <!-- Logo -->
     <a href="/" class="text-lg font-semibold tracking-tight hover:opacity-80 transition">
